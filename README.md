@@ -53,3 +53,10 @@ If you'd like your header to be larger then you can use the option below in you 
 
 ![preview Long Haul](/preview-large.png)
 
+## To use on GitHub Pages
+
+To use latest Jekyll and Jekyll Sass Converter on GitHub Pages, <a href="https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/">you can now deploy to a GitHub Pages site using GitHub Actions.</a>
+
+## License
+
+This is [MIT](LICENSE) with no added caveats, so feel free to use this Jekyll theme on your site without linking back to me or using a disclaimer.
